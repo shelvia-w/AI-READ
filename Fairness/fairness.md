@@ -1,4 +1,4 @@
-### Topic: Fairness
+## Topic: Fairness
 
 A compiled list of fairness-related AI papers which I have read.
 
