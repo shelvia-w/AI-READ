@@ -1,2 +1,2 @@
 # AI-READ
-This repository is a compiled list of significant AI papers which I have read.
+This repository is a compiled list of interesting AI papers which I have read.
