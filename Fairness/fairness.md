@@ -1,3 +1,5 @@
+### Topic: Fairness
+
 A compiled list of fairness-related AI papers which I have read.
 
 Last updated: 28 March 2024
