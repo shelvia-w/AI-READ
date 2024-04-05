@@ -23,7 +23,7 @@ Last updated: 5 April 2024
 
 ### Fairness Constraints
 
-* 2020: [A Fair Classifier Using Kernel Density Estimation](https://proceedings.neurips.cc/paper_files/paper/2020/file/ac3870fcad1cfc367825cda0101eee62-Paper.pdf) ([Code](https://proceedings.neurips.cc/paper_files/paper/2020/file/ac3870fcad1cfc367825cda0101eee62-Supplemental.zip))
+* 🥉 2020: [A Fair Classifier Using Kernel Density Estimation](https://proceedings.neurips.cc/paper_files/paper/2020/file/ac3870fcad1cfc367825cda0101eee62-Paper.pdf) ([Code](https://proceedings.neurips.cc/paper_files/paper/2020/file/ac3870fcad1cfc367825cda0101eee62-Supplemental.zip))
 
 ### Adversarial Approaches
 
