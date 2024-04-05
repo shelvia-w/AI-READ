@@ -21,6 +21,10 @@ Last updated: 5 April 2024
 * 🥈 2016: [The Variational Fair Autoencoder](https://arxiv.org/abs/1511.00830)
 * 🥇 2013: [Learning Fair Representations](https://proceedings.mlr.press/v28/zemel13.html)
 
+### Fairness Constraints
+
+* 2020: [A Fair Classifier Using Kernel Density Estimation](https://proceedings.neurips.cc/paper_files/paper/2020/file/ac3870fcad1cfc367825cda0101eee62-Paper.pdf) ([Code](https://proceedings.neurips.cc/paper_files/paper/2020/file/ac3870fcad1cfc367825cda0101eee62-Supplemental.zip))
+
 ### Adversarial Approaches
 
 * 🥈 2018: [Learning Adversarially Fair and Transferrable Representations](https://arxiv.org/abs/1802.06309) ([Code](https://github.com/VectorInstitute/laftr))
