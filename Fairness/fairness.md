@@ -35,6 +35,9 @@ Last updated: 5 April 2024
 
 * 🥈 2017: [On Fairness and Calibration](https://arxiv.org/abs/1709.02012)
 
+### Fairness and Robustness
+
+* 🥉 2020: [FR-Train: A Mutual Information-Based Approach to Fair and Robust Training](https://proceedings.mlr.press/v119/roh20a.html)([Code](https://github.com/yuji-roh/fr-train))
 
 ### Information-Theoretic
 
