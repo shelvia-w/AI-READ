@@ -2,7 +2,7 @@
 
 A compiled list of fairness-related AI papers which I have read.
 
-Last updated: 28 March 2024
+Last updated: 5 April 2024
 
 ### Icon description:
 
@@ -23,7 +23,8 @@ Last updated: 28 March 2024
 
 ### Adversarial Approaches
 
-* 🥈 2018: [Learning Adversarially Fair and Transferrable Representations](https://arxiv.org/abs/1802.06309)
+* 🥈 2018: [Learning Adversarially Fair and Transferrable Representations](https://arxiv.org/abs/1802.06309) ([Code](https://github.com/VectorInstitute/laftr))
+* 🥇 2018: [Mitigating Unwanted Biases with Adversarial Learning](https://arxiv.org/pdf/1801.07593.pdf)
 * 🥈 2016: [Censoring Representations with an Adversary](https://arxiv.org/abs/1511.05897)
 
 ### Fairness and Calibration
@@ -33,4 +34,4 @@ Last updated: 28 March 2024
 
 ### Information-Theoretic
 
-* 🥉 2019: [Learning Controllable Fair Representations](https://arxiv.org/abs/1812.04218)
+* 🥉 2019: [Learning Controllable Fair Representations](https://arxiv.org/abs/1812.04218) ([Code](https://github.com/ermongroup/lag-fairness))
