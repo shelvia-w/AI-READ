@@ -6,13 +6,13 @@ Last updated: 5 April 2024
 
 ### Icon description:
 
-🥇 more than 1k citations (at the time of reading)
+🥇 at least 1k citations (at the time of reading)
 
-🥈 more than 500 citations (at the time of reading)
+🥈 at least 500 citations (at the time of reading)
 
-🥉 more than 50 citations (at the time of reading)
+🥉 at least 50 citations (at the time of reading)
 
-⭐ recently published (at the time of reading)
+⭐ less than 50 citations but interesting
 
 ----
 
@@ -38,4 +38,5 @@ Last updated: 5 April 2024
 
 ### Information-Theoretic
 
+* ⭐ 2020 : [A Fair Classifier Using Mutual Information](http://csuh.kaist.ac.kr/Conf_Suh_fairness_ISIT.pdf)
 * 🥉 2019: [Learning Controllable Fair Representations](https://arxiv.org/abs/1812.04218) ([Code](https://github.com/ermongroup/lag-fairness))
