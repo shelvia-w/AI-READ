@@ -4,6 +4,8 @@ A compiled list of datasets used in AI fairness papers.
 
 Last updated: 5 April 2024
 
+### Tabular Datasets
+
 1. [Adult (Census Income) Dataset](https://archive.ics.uci.edu/dataset/2/adult)
     - [Learning Controllable Fair Representations](https://github.com/ermongroup/lag-fairness/tree/master)
     - [Learning Adversarially Fair and Transferable Representations](https://github.com/VectorInstitute/laftr)
