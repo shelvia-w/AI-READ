@@ -12,7 +12,7 @@ Last updated: 5 April 2024
 
 🥉 at least 50 citations (at the time of reading)
 
-⭐ less than 50 citations but interesting
+⭐ less than 50 citations (at the time of reading)
 
 ----
 
