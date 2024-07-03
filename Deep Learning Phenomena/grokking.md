@@ -2,7 +2,7 @@
 
 A compiled list of grokking-related AI papers which I have read.
 
-Last updated: 22 April 2024
+Last updated: 3 July 2024
 
 ### Icon description:
 
