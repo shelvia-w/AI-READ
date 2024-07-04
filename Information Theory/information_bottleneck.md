@@ -25,7 +25,11 @@ Last updated: 4 July 2024
 
 * ⭐ 2023 : [How Does Information Bottleneck Help Deep Learning?](https://arxiv.org/pdf/2305.18887) ([Code](https://github.com/xu-ji/information-bottleneck))<br>
 
+* 🥉 2020 : [The Information Bottleneck Problem and Its Applications in Machine Learning](https://arxiv.org/pdf/2004.14941) <br>
+
 * ⭐ 2020 : [The Dual Information Bottleneck](https://arxiv.org/pdf/2006.04641) <br>
+
+* ⭐ 2019 : [Information Bottleneck and its Applications in Deep Learning](https://arxiv.org/pdf/1904.03743) <br>
 
 * ⭐ 2019 : [Learnability for the Information Bottleneck](https://arxiv.org/pdf/1907.07331) <br>
 
@@ -55,7 +59,10 @@ This paper extended the orignal Information Bottleneck method to multivariate ca
 * 🥇 2000: [The Information Bottleneck Method](https://arxiv.org/pdf/physics/0004057) <br>
 This paper proposed the Information Bottleneck method to study the concept of relevant information quantitatively. It studies the trade-off between compression and prediction to find the concise representations for an input random variable that contain as much relevant information as possible for an output variable.
 
-
 ### Information Plane Analysis of Deep Neural Networks
+
+* 🥉 2022 : [On Information Plane Analyses of Neural Network Classifiers - A Review](https://arxiv.org/pdf/2003.09671)
+
+* 🥈 2018 : [On the Information Bottleneck Theory of Deep Learning](https://openreview.net/pdf?id=ry_WPG-A-)
 
 * 🥇 2017 : [Opening the Black Box of Deep Neural Networks via Information](https://arxiv.org/pdf/1703.00810) ([Code](https://github.com/ravidziv/IDNNs)) <br>
