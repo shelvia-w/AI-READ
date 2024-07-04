@@ -16,6 +16,13 @@ Last updated: 3 July 2024
 
 ----
 
+### Table of Contents:
+- [Grokking Phenomenon](#grokking-phenomenon)
+- [Phase Transitions](#phase-transitions)
+- [Mechanistic Interpretability](#mechanistic-interpretability)
+
+----
+
 ### Grokking Phenomenon
 
 * 🥇 2022: [Grokking: Generalization Beyond Overfitting on Small Algorithmic Datasets](https://arxiv.org/pdf/2201.02177.pdf) <br>

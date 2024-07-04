@@ -16,6 +16,15 @@ Last updated: 5 April 2024
 
 ----
 
+### Table of Contents:
+- [Representation Learning](#representation-learning)
+- [Fairness Constraints](#fairness-constraints)
+- [Adversarial Approaches](#adversarial-approaches)
+- [Fairness and Calibration](#fairness-and-calibration)
+- [Information-Theoretic](#information-theoretic)
+
+----
+
 ### Representation Learning
 
 * 🥈 2016: [The Variational Fair Autoencoder](https://arxiv.org/abs/1511.00830)
