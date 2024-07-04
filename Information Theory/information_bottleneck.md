@@ -23,7 +23,7 @@ Last updated: 4 July 2024
 
 ### Information Bottleneck Objective
 
-* ⭐ 2023 : [How Does Information Bottleneck Help Deep Learning?](https://arxiv.org/pdf/2305.18887) <br>
+* ⭐ 2023 : [How Does Information Bottleneck Help Deep Learning?](https://arxiv.org/pdf/2305.18887) ([Code](https://github.com/xu-ji/information-bottleneck))<br>
 
 * ⭐ 2020 : [The Dual Information Bottleneck](https://arxiv.org/pdf/2006.04641) <br>
 
