@@ -16,6 +16,11 @@ Last updated: 3 July 2024
 
 ----
 
+### Table of Contents:
+- [Information Bottleneck Theory](#information-bottleneck-theory)
+
+----
+
 ### Information Bottleneck Theory
 
 * 🥇 2000: [The Information Bottleneck Method](https://arxiv.org/pdf/physics/0004057) <br>
