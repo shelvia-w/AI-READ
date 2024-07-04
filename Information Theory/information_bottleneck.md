@@ -36,6 +36,6 @@ This is Noam Slonim's thesis which provides a comprehensive review of the Inform
 * 🥉 2010: [Learning and Generalization with the Information Bottleneck](https://www.cs.huji.ac.il/labs/learning/Papers/ibgen.pdf) <br>
 This paper studied the learning theoretic properties of the Information Bottleneck (IB) method. They proved several finite bounds that showed that the IB method can generalize quite using the plug-in estimates, even with sample sizes much smaller than the ones required for reliable estimation of joint distribution. They also argued that in the supervised learning setting, the IB method can be used to study the performance-complexity trade-off.
 
-* 2015: [Deep Learning and the Information Bottleneck Principle](https://arxiv.org/pdf/1503.02406) <br>
+* 🥇 2015: [Deep Learning and the Information Bottleneck Principle](https://arxiv.org/pdf/1503.02406) <br>
 This paper proposed to analyze the deep neural networks (DNNs) using the Information Bottleneck (IB) method. This was by visualizing the information curve, which plots the mutual information between the layers and the input and output variables. They applied the IB method to quantify the efficiency/optimality of the internal representations of the hidden layers in the DNNs.
 
