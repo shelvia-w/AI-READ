@@ -1,4 +1,4 @@
-## Topic: Fairness
+## Topic: Information Bottleneck
 
 A compiled list of information bottleneck-related papers which I have read.
 
