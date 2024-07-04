@@ -29,3 +29,6 @@ This paper proposed the information bottleneck method to study the concept of re
 * 🥉 2001: [Multivariate Information Bottleneck](https://arxiv.org/pdf/1301.2270) <br>
 This paper extended the orignal information bottleneck method to multivariate cases.
 
+
+* 
+

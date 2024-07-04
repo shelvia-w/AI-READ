@@ -46,6 +46,6 @@ Last updated: 5 April 2024
 
 ### Information-Theoretic
 
-* 🥉 2020: [FR-Train: A Mutual Information-Based Approach to Fair and Robust Training](https://proceedings.mlr.press/v119/roh20a.html)([Code](https://github.com/yuji-roh/fr-train))
+* 🥉 2020: [FR-Train: A Mutual Information-Based Approach to Fair and Robust Training](https://proceedings.mlr.press/v119/roh20a.html) ([Code](https://github.com/yuji-roh/fr-train))
 * ⭐ 2020 : [A Fair Classifier Using Mutual Information](http://csuh.kaist.ac.kr/Conf_Suh_fairness_ISIT.pdf)
 * 🥉 2019: [Learning Controllable Fair Representations](https://arxiv.org/abs/1812.04218) ([Code](https://github.com/ermongroup/lag-fairness))
