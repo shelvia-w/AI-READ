@@ -22,4 +22,3 @@ Last updated: 7 July 2024
 ----
 
 ### Neural/Variational Approaches
-
