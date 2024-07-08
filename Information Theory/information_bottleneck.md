@@ -12,7 +12,7 @@ Last updated: 4 July 2024
 
 🥉 at least 50 citations (at the time of reading)
 
-⭐ less than 50 citations (at the time of reading)
+🏆 less than 50 citations (at the time of reading)
 
 ----
 
@@ -23,15 +23,15 @@ Last updated: 4 July 2024
 
 ### Information Bottleneck Objective
 
-* ⭐ 2023 : [How Does Information Bottleneck Help Deep Learning?](https://arxiv.org/pdf/2305.18887) ([Code](https://github.com/xu-ji/information-bottleneck))<br>
+* 🏆 2023 : [How Does Information Bottleneck Help Deep Learning?](https://arxiv.org/pdf/2305.18887) ([Code](https://github.com/xu-ji/information-bottleneck))<br>
 
 * 🥉 2020 : [The Information Bottleneck Problem and Its Applications in Machine Learning](https://arxiv.org/pdf/2004.14941) <br>
 
-* ⭐ 2020 : [The Dual Information Bottleneck](https://arxiv.org/pdf/2006.04641) <br>
+* 🏆 2020 : [The Dual Information Bottleneck](https://arxiv.org/pdf/2006.04641) <br>
 
-* ⭐ 2019 : [Information Bottleneck and its Applications in Deep Learning](https://arxiv.org/pdf/1904.03743) <br>
+* 🏆 2019 : [Information Bottleneck and its Applications in Deep Learning](https://arxiv.org/pdf/1904.03743) <br>
 
-* ⭐ 2019 : [Learnability for the Information Bottleneck](https://arxiv.org/pdf/1907.07331) <br>
+* 🏆 2019 : [Learnability for the Information Bottleneck](https://arxiv.org/pdf/1907.07331) <br>
 
 * 🥉 2018 : [Learning Representation for Neural Network-Based Classification Using Information Bottleneck Principle](https://arxiv.org/pdf/1802.09766) <br>
 
