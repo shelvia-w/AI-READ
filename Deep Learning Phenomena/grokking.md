@@ -12,7 +12,7 @@ Last updated: 3 July 2024
 
 🥉 at least 50 citations (at the time of reading)
 
-🏆 less than 50 citations (at the time of reading)
+💥 less than 50 citations (at the time of reading)
 
 ----
 
@@ -31,7 +31,7 @@ This paper studied the generalization of neural networks on small algorithmicall
 ### Phase Transitions
 * 🥉 2022: [Towards Understanding Grokking: An Effective Theory of Representation Learning](https://arxiv.org/pdf/2205.10343.pdf) ([Code](https://github.com/ejmichaud/grokking-squared)) <br>
 This paper studied the grokking phenomenon using physics-inspired tools, namely effective theories and phase diagrams. They suggested that the observed generalization in algorithmic datasets is due to the network’s capability of learning good representation of the input embeddings. They also found that grokking occurs when the representation learning is significantly faster compared to the decoder learning. Therefore, with proper hyperparameter tuning (changing the learning rates and weight decay), it is possible to avoid grokking.
-* 🏆 2022: [The Slingshot Mechanism: An Empirical Study of Adaptive Optimizers and the Grokking Phenomenon](https://openreview.net/pdf?id=lY1e0PNkSJ) <br>
+* 💥 2022: [The Slingshot Mechanism: An Empirical Study of Adaptive Optimizers and the Grokking Phenomenon](https://openreview.net/pdf?id=lY1e0PNkSJ) <br>
 This paper proposed that for grokking to occur with explicit regularization, the training dynamics must undergo a slingshot mechanism where the norm of the last layer weights exhibits cyclic behaviour (sharp phase transitions that alternate between rapid growth and plateaus) over the course of training. Furthermore, they found that by varying the epsilon parameter (the small constant added for numerical stability) of the Adam optimizer, one can control the appearance of the slingshot effects.
 
 ### Mechanistic Interpretability
