@@ -17,11 +17,25 @@ Last updated: 8 July 2024
 ----
 
 ### Table of Contents:
-- [Grokking Phenomenon](#grokking-phenomenon)
-- [Phase Transitions](#phase-transitions)
-- [Mechanistic Interpretability](#mechanistic-interpretability)
+- [V-Usable Information](#v-usable-information)
+- [Sliced Mutual Information](#sliced-mutual-information)
 
 ----
 
 ### V-Usable Information
+
+- 🥈 2020: [A theory of usable information under computational constraints](https://arxiv.org/pdf/2002.10689) ([Code](https://github.com/Newbeeer/V-information))
+
+- 🥈 2022: [Understanding Dataset Difficulty with V-Usable Information](https://arxiv.org/pdf/2110.08420) ([Code](https://github.com/kawine/dataset_difficulty))
+
+### Sliced Mutual Information
+
+- 💥 2021: [Sliced Mutual Information: A Scalable Measure of Statistical Dependence](https://arxiv.org/pdf/2110.05279)
+
+- 💥 2022: [k-Sliced Mutual Information: A Quantitative Study of Scalability with Dimension](https://arxiv.org/pdf/2206.08526)
+
+- 💥 2023: [Max-Sliced Mutual Information](https://arxiv.org/pdf/2309.16200)
+
+
+
 
