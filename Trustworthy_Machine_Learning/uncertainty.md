@@ -1,4 +1,4 @@
-## Topic: Fairness
+## Topic: Uncertainty Quantification
 
 A compiled list of uncertainty-related AI papers which I have read.
 
