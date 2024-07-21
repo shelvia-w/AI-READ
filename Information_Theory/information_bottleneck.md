@@ -77,3 +77,6 @@ This paper proposed using the information plane to study the learning dynamics o
 * 💥 2019 : [Inverting Supervised Representations with Autoregressive Neural Density Models](https://arxiv.org/pdf/1806.00400) <br>
 This paper proposed a method for estimating the mutual information between a model’s
 inputs and its intermediate representations based on autoregressive density estimation. They observed information compression even for ReLU networks, and showed that compression in network layers has an important role in a model’s generalization performance.
+
+* 💥 2020 : [Information-Bottleneck under Mean Field Initialization](https://people.maths.ox.ac.uk/tanner/papers/AbTa_InfBott_mean_field_ICML.pdf)
+This paper studied the information plane analysis when using different mutual information (MI) estimators (replica, KDE, EDGE) under the mean field (MF) initialization. They observed that under MF initialization, the MI is maximized in most layers. In the information plane, the MI estimates are closely concentrated and high accuracy is rapidly obtained with training.
