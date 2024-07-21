@@ -61,7 +61,8 @@ This paper proposed the Information Bottleneck method to study the concept of re
 
 ### Information Plane Analysis of Deep Neural Networks
 
-* 🥉 2022 : [On Information Plane Analyses of Neural Network Classifiers - A Review](https://arxiv.org/pdf/2003.09671)
+* 🥉 2022 : [On Information Plane Analyses of Neural Network Classifiers - A Review](https://arxiv.org/pdf/2003.09671) <br>
+This paper consolidated and reviewed all the findings related to information plane analysis of deep neural networks. They argued that the compression phase observed in the plane could be related to the geometrical clustering of the latent representations. Furthermore, they noted that the results obtained by using different mutual information estimators are often not directly comparable.
 
 * 🥈 2018 : [On the Information Bottleneck Theory of Deep Learning](https://openreview.net/pdf?id=ry_WPG-A-) ([Code](https://github.com/artemyk/ibsgd)) <br>
 This paper challenged some of the claims made by the previous paper (Shwartz-Ziv & Tishby, 2017). In particular, they showed that compression is mainly observed when double-sided saturating nonlinearities are used. They also found no direct connection between compression and generalization. Furthermore, they observed that compression phase is still observed when full batch gradient descent was used. Finally, they argued that compression is a concurrent phase with the fitting process rather than a subsequent one.
