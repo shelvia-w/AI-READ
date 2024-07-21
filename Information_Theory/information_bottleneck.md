@@ -19,6 +19,8 @@ Last updated: 4 July 2024
 ### Table of Contents:
 - [Information Bottleneck Objective](#information-bottleneck-objective)
 - [Information Plane Analysis of Deep Neural Networks](#information-plane-analysis-of-deep-neural-networks)
+- [More Information Plane Analysis Papers](#more-information-plane-analysis-papers)
+
 ----
 
 ### Information Bottleneck Objective
