@@ -69,3 +69,9 @@ This paper challenged some of the claims made by the previous paper (Shwartz-Ziv
 
 * 🥇 2017 : [Opening the Black Box of Deep Neural Networks via Information](https://arxiv.org/pdf/1703.00810) ([Code](https://github.com/ravidziv/IDNNs)) <br>
 This paper proposed using the information plane to study the learning dynamics of deep neural networks with stochastic gradient descent optimization. They found two different phases: the initial empirical risk minimization phase, followed by the representation compression phase. They also argued that the optimality of a layer can be explained by the IB bounds.
+
+### More Information Plane Analysis Papers
+
+* 💥 2019 : [Inverting Supervised Representations with Autoregressive Neural Density Models](https://arxiv.org/pdf/1806.00400)
+This paper proposed a method for estimating the mutual information between a model’s
+inputs and its intermediate representations based on autoregressive density estimation. They observed information compression even for ReLU networks, and showed that compression in network layers has an important role in a model’s generalization performance.
