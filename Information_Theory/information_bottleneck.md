@@ -67,7 +67,7 @@ This paper proposed the Information Bottleneck method to study the concept of re
 This paper consolidated and reviewed all the findings related to information plane analysis of deep neural networks. They argued that the compression phase observed in the plane could be related to the geometrical clustering of the latent representations. Furthermore, they noted that the results obtained by using different mutual information estimators are often not directly comparable.
 
 * 🥉 2019 : [Estimating Information Flow in Deep Neural Networks](https://arxiv.org/pdf/1810.05728) <br>
-This paper proposed a stochastic DNN framework to avoid the problems arising from deterministic function. This is done by adding i.i.d. Gaussian noise to the output of each hidden layer. They argued that the compression observed in the information plane during training is due to the increased clustering of the hidden representations. They also presented some evidence to show that compression and generalization may not be causally related.
+This paper proposed a stochastic DNN framework to avoid the problems arising from deterministic function. This is done by adding i.i.d. Gaussian noise to the output of each hidden layer. They argued that the compression observed in the information plane during training is due to the clustering of the hidden representations. They also presented some evidence to show that compression and generalization may not be causally related.
 
 
 * 🥈 2018 : [On the Information Bottleneck Theory of Deep Learning](https://openreview.net/pdf?id=ry_WPG-A-) ([Code](https://github.com/artemyk/ibsgd)) <br>
