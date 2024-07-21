@@ -74,6 +74,6 @@ This paper proposed using the information plane to study the learning dynamics o
 
 ### More Information Plane Analysis Papers
 
-* 💥 2019 : [Inverting Supervised Representations with Autoregressive Neural Density Models](https://arxiv.org/pdf/1806.00400)
+* 💥 2019 : [Inverting Supervised Representations with Autoregressive Neural Density Models](https://arxiv.org/pdf/1806.00400) <br>
 This paper proposed a method for estimating the mutual information between a model’s
 inputs and its intermediate representations based on autoregressive density estimation. They observed information compression even for ReLU networks, and showed that compression in network layers has an important role in a model’s generalization performance.
