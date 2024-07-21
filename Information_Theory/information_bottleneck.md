@@ -68,6 +68,12 @@ This paper consolidated and reviewed all the findings related to information pla
 * 💥 2020 : [Information-Bottleneck under Mean Field Initialization](https://people.maths.ox.ac.uk/tanner/papers/AbTa_InfBott_mean_field_ICML.pdf) <br>
 This paper studied the information plane analysis when using different mutual information (MI) estimators (replica, KDE, EDGE) under the mean field (MF) initialization. They observed that under MF initialization, the MI is maximized in most layers. In the information plane, the MI estimates are closely concentrated and high accuracy is rapidly obtained with training.
 
+* 🥉 2020 : [Understanding Convolutional Neural Networks with Information Theory](https://arxiv.org/pdf/1804.06537) <br>
+This paper proposed to study the information plane in convolutional neural networks using the multivariate extension of the matrix-based Rényi α-entropy functional. They argued that for convolutional layers, the quantity that we need to measure is the multivariate mutual information between a variable and a group of variables (different feature maps). They also suggested to check the data processing inequality beforehand in order to validate the correctness of the estimator used. Using the partial information decomposition framework, they introduced three information-theoretic quantities to analyze the synergy and redundancy in convolutional layer representations.
+
+* 🥉 2019 : [Understanding Autoencoders with Information Theoretic Concepts](https://arxiv.org/pdf/1804.00057) <br>
+This paper proposed to study the learning dynamics of stacked autoencoders (SAEs) using the information plane. They suggested three fundamental properties associated with the layer-wise information flow and intrinsic dimensionality of the bottleneck layer in SAEs.
+
 * 💥 2019 : [Inverting Supervised Representations with Autoregressive Neural Density Models](https://arxiv.org/pdf/1806.00400) <br>
 This paper proposed a method for estimating the mutual information between a model’s
 inputs and its intermediate representations based on autoregressive density estimation. They observed information compression even for ReLU networks, and showed that compression in network layers has an important role in a model’s generalization performance.
