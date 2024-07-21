@@ -66,6 +66,10 @@ This paper proposed the Information Bottleneck method to study the concept of re
 * 🥉 2022 : [On Information Plane Analyses of Neural Network Classifiers - A Review](https://arxiv.org/pdf/2003.09671) <br>
 This paper consolidated and reviewed all the findings related to information plane analysis of deep neural networks. They argued that the compression phase observed in the plane could be related to the geometrical clustering of the latent representations. Furthermore, they noted that the results obtained by using different mutual information estimators are often not directly comparable.
 
+* 🥉 2019 : [Estimating Information Flow in Deep Neural Networks](https://arxiv.org/pdf/1810.05728) <br>
+This paper proposed a stochastic DNN framework to avoid the problems arising from deterministic function. This is done by adding i.i.d. Gaussian noise to the output of each hidden layer. They argued that the compression observed in the information plane during training is due to the increased clustering of the hidden representations. They also presented some evidence to show that compression and generalization may not be causally related.
+
+
 * 🥈 2018 : [On the Information Bottleneck Theory of Deep Learning](https://openreview.net/pdf?id=ry_WPG-A-) ([Code](https://github.com/artemyk/ibsgd)) <br>
 This paper challenged some of the claims made by the previous paper (Shwartz-Ziv & Tishby, 2017). In particular, they showed that compression is mainly observed when double-sided saturating nonlinearities are used. They also found no direct connection between compression and generalization. Furthermore, they observed that compression phase is still observed when full batch gradient descent was used. Finally, they argued that compression is a concurrent phase with the fitting process rather than a subsequent one.
 
@@ -74,9 +78,9 @@ This paper proposed using the information plane to study the learning dynamics o
 
 ### More Information Plane Analysis Papers
 
+* 💥 2020 : [Information-Bottleneck under Mean Field Initialization](https://people.maths.ox.ac.uk/tanner/papers/AbTa_InfBott_mean_field_ICML.pdf) <br>
+This paper studied the information plane analysis when using different mutual information (MI) estimators (replica, KDE, EDGE) under the mean field (MF) initialization. They observed that under MF initialization, the MI is maximized in most layers. In the information plane, the MI estimates are closely concentrated and high accuracy is rapidly obtained with training.
+
 * 💥 2019 : [Inverting Supervised Representations with Autoregressive Neural Density Models](https://arxiv.org/pdf/1806.00400) <br>
 This paper proposed a method for estimating the mutual information between a model’s
 inputs and its intermediate representations based on autoregressive density estimation. They observed information compression even for ReLU networks, and showed that compression in network layers has an important role in a model’s generalization performance.
-
-* 💥 2020 : [Information-Bottleneck under Mean Field Initialization](https://people.maths.ox.ac.uk/tanner/papers/AbTa_InfBott_mean_field_ICML.pdf)
-This paper studied the information plane analysis when using different mutual information (MI) estimators (replica, KDE, EDGE) under the mean field (MF) initialization. They observed that under MF initialization, the MI is maximized in most layers. In the information plane, the MI estimates are closely concentrated and high accuracy is rapidly obtained with training.
