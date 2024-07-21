@@ -71,6 +71,9 @@ This paper studied the information plane analysis when using different mutual in
 * 🥉 2020 : [Understanding Convolutional Neural Networks with Information Theory](https://arxiv.org/pdf/1804.06537) <br>
 This paper proposed to study the information plane in convolutional neural networks using the multivariate extension of the matrix-based Rényi α-entropy functional. They argued that for convolutional layers, the quantity that we need to measure is the multivariate mutual information between a variable and a group of variables (different feature maps). They also suggested to check the data processing inequality beforehand in order to validate the correctness of the estimator used. Using the partial information decomposition framework, they introduced three information-theoretic quantities to analyze the synergy and redundancy in convolutional layer representations.
 
+* 💥 2020 : [On the Information Plane of Autoencoders](https://arxiv.org/pdf/2005.07783) <br>
+This paper derived theoretical convergence of each layer of autoencoders in the information plane. The theory predicts that ideal autoencoders with a large bottleneck layer size do not compress input information, whereas a small size causes compression only in the encoder layers.
+
 * 🥉 2019 : [Understanding Autoencoders with Information Theoretic Concepts](https://arxiv.org/pdf/1804.00057) <br>
 This paper proposed to study the learning dynamics of stacked autoencoders (SAEs) using the information plane. They suggested three fundamental properties associated with the layer-wise information flow and intrinsic dimensionality of the bottleneck layer in SAEs.
 
