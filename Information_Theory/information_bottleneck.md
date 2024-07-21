@@ -65,6 +65,12 @@ This paper proposed the Information Bottleneck method to study the concept of re
 * 🥉 2022 : [On Information Plane Analyses of Neural Network Classifiers - A Review](https://arxiv.org/pdf/2003.09671) <br>
 This paper consolidated and reviewed all the findings related to information plane analysis of deep neural networks. They argued that the compression phase observed in the plane could be related to the geometrical clustering of the latent representations. Furthermore, they noted that the results obtained by using different mutual information estimators are often not directly comparable.
 
+* 💥 2021 : [Information Flows of Diverse Autoencoders](https://arxiv.org/pdf/2102.07402) <br>
+This paper studied the information plane in the context of various autoencoders. They observed compression in some autoencoders, and the effect is amplified when the hidden layers are regularized to encourage sparsity. They also found no connection between compression and generalization.
+
+* 💥 2020 : [Understanding Learning Dynamics of Binary Neural Networks via Information Bottleneck](https://arxiv.org/pdf/2006.07522) <br>
+This paper studied the learning dynamics of binary neural networks using the information plane. They found that in this setting, the fitting phase and the compression phase happen simultaneously rather than consecutively.
+
 * 💥 2020 : [Information-Bottleneck under Mean Field Initialization](https://people.maths.ox.ac.uk/tanner/papers/AbTa_InfBott_mean_field_ICML.pdf) <br>
 This paper studied the information plane analysis when using different mutual information (MI) estimators (replica, KDE, EDGE) under the mean field (MF) initialization. They observed that under MF initialization, the MI is maximized in most layers. In the information plane, the MI estimates are closely concentrated and high accuracy is rapidly obtained with training.
 
