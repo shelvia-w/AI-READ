@@ -2,7 +2,7 @@
 
 A compiled list of information bottleneck-related papers which I have read.
 
-Last updated: 4 July 2024
+Last updated: 21 July 2024
 
 ### Icon description:
 
