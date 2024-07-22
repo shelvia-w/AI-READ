@@ -34,6 +34,8 @@ Last updated: 21 July 2024
 
 * 💥 2019 : [Learnability for the Information Bottleneck](https://arxiv.org/pdf/1907.07331) <br>
 
+* 💥 2019 : [Markov Information Bottleneck to Improve Information Flow in Stochastic Neural Networks](https://www.mdpi.com/1099-4300/21/10/976) <br>
+
 * 🥉 2018 : [Learning Representation for Neural Network-Based Classification Using Information Bottleneck Principle](https://arxiv.org/pdf/1802.09766) <br>
 
 * 🥉 2018 : [Caveats for Information Bottleneck in Deterministic Scenarios](https://arxiv.org/pdf/1808.07593) ([Code](https://github.com/artemyk/ibcurve)) <br>
@@ -89,6 +91,9 @@ inputs and its intermediate representations based on autoregressive density esti
 
 * 🥉 2019 : [Estimating Information Flow in Deep Neural Networks](https://arxiv.org/pdf/1810.05728) <br>
 This paper proposed a stochastic DNN framework to avoid the problems arising from deterministic function. This is done by adding i.i.d. Gaussian noise to the output of each hidden layer. They argued that the compression observed in the information plane during training is due to the clustering of the hidden representations. They also presented some evidence to show that compression and generalization may not be causally related.
+
+* 💥 2019 : [Adaptive Estimators Show Information Compression in Deep Neural Networks](https://arxiv.org/pdf/1902.09037) <br>
+
 
 * 🥈 2018 : [On the Information Bottleneck Theory of Deep Learning](https://openreview.net/pdf?id=ry_WPG-A-) ([Code](https://github.com/artemyk/ibsgd)) <br>
 This paper challenged some of the claims made by the previous paper (Shwartz-Ziv & Tishby, 2017). In particular, they showed that compression is mainly observed when double-sided saturating nonlinearities are used. They also found no direct connection between compression and generalization. Furthermore, they observed that compression phase is still observed when full batch gradient descent was used. Finally, they argued that compression is a concurrent phase with the fitting process rather than a subsequent one.
