@@ -17,6 +17,7 @@ Last updated: 23 July 2024
 ----
 
 ### Table of Contents:
+- [Benchmark](#benchmark)
 
 ----
 
