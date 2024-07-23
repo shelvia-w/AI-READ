@@ -93,10 +93,16 @@ inputs and its intermediate representations based on autoregressive density esti
 This paper proposed a stochastic DNN framework to avoid the problems arising from deterministic function. This is done by adding i.i.d. Gaussian noise to the output of each hidden layer. They argued that the compression observed in the information plane during training is due to the clustering of the hidden representations. They also presented some evidence to show that compression and generalization may not be causally related.
 
 * 💥 2019 : [Adaptive Estimators Show Information Compression in Deep Neural Networks](https://arxiv.org/pdf/1902.09037) <br>
+This paper proposed adaptive way for estimating mutual information for the information plane analysis. 
 
+* 2019 : [Utilizing Information Bottleneck to Evaluate the Capability of Deep Neural Networks for Image Classification](https://www.mdpi.com/1099-4300/21/5/456#B15-entropy-21-00456) <br>
+This paper is an extended version of the 
 
 * 🥈 2018 : [On the Information Bottleneck Theory of Deep Learning](https://openreview.net/pdf?id=ry_WPG-A-) ([Code](https://github.com/artemyk/ibsgd)) <br>
 This paper challenged some of the claims made by the previous paper (Shwartz-Ziv & Tishby, 2017). In particular, they showed that compression is mainly observed when double-sided saturating nonlinearities are used. They also found no direct connection between compression and generalization. Furthermore, they observed that compression phase is still observed when full batch gradient descent was used. Finally, they argued that compression is a concurrent phase with the fitting process rather than a subsequent one.
+
+* 2018 : [Evaluating Capability of Deep Neural Networks for Image Classification via Information Plane](https://openaccess.thecvf.com/content_ECCV_2018/papers/Hao_Cheng_Evaluating_Capability_of_ECCV_2018_paper.pdf) <br>
+
 
 * 🥇 2017 : [Opening the Black Box of Deep Neural Networks via Information](https://arxiv.org/pdf/1703.00810) ([Code](https://github.com/ravidziv/IDNNs)) <br>
 This paper proposed using the information plane to study the learning dynamics of deep neural networks with stochastic gradient descent optimization. They found two different phases: the initial empirical risk minimization phase, followed by the representation compression phase. They also argued that the optimality of a layer can be explained by the IB bounds.
