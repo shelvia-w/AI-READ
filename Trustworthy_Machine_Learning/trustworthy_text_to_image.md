@@ -1,6 +1,6 @@
 ## Topic: Fairness
 
-A compiled list of papers on fairness for text-to-image models.
+A compiled list of papers on trustworthiness for text-to-image models.
 
 Last updated: 23 July 2024
 
