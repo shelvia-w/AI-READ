@@ -35,3 +35,4 @@ Last updated: 8 July 2024
 - 💥 2022: [k-Sliced Mutual Information: A Quantitative Study of Scalability with Dimension](https://arxiv.org/pdf/2206.08526)
 
 - 💥 2023: [Max-Sliced Mutual Information](https://arxiv.org/pdf/2309.16200)
+
