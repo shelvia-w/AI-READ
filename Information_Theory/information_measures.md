@@ -14,6 +14,14 @@ Last updated: 8 July 2024
 
 💥 less than 50 citations (at the time of reading)
 
+🏆 Highly Recommended: Read in detail and found very interesting.
+
+📚 Reviewed: Read in detail.
+
+📝 Skimmed: Read briefly.
+
+📅 To Be Read (TBR): Plan to read.
+
 ----
 
 ### Table of Contents:
