@@ -14,8 +14,6 @@ Last updated: 29 July 2024
 
 💥 less than 50 citations (at the time of reading)
 
-------------------------------------------------------------------
-
 🏆 Highly Recommended: Read in detail and found very interesting.
 
 📚 Reviewed: Read in detail.
